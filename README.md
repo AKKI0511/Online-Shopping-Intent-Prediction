@@ -1,6 +1,6 @@
 # Online Shopping Intent Predictor
 
-This Python project implements an online shopping intent predictor using a k-nearest neighbor classifier (k=1) to predict whether a visitor will generate revenue (make a purchase) based on various features related to their browsing behavior. The project uses the scikit-learn library for machine learning tasks.
+This Python project implements an online shopping intent predictor using a k-nearest neighbor classifier to predict whether a visitor will generate revenue (make a purchase) based on various features related to their browsing behavior. The project uses the scikit-learn library for machine learning tasks.
 
 ## How to Use
 
@@ -69,7 +69,7 @@ The predictor prints the following results:
 
 - Example:
 
-![image](https://github.com/AKKI0511/Online-Shopping-Intent-Prediction/assets/120317569/009811ca-8132-4f6c-851c-8255aeb30d95)
+![image](https://github.com/AKKI0511/Online-Shopping-Intent-Prediction/assets/120317569/56df11c0-d4da-483a-abc8-a7f87e4bb7c6)
 
 
 ## Acknowledgements
